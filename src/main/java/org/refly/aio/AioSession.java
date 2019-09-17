@@ -5,7 +5,7 @@ import org.refly.Config;
 import org.refly.NetEvent;
 import org.refly.Session;
 import org.refly.buffer.AdaptiveBufferSizePredictor;
-import org.refly.buffer.BufferUtils;
+import org.refly.util.BufferUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

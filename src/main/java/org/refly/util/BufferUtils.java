@@ -1,4 +1,4 @@
-package org.refly.buffer;
+package org.refly.util;
 
 public class BufferUtils {
 
